@@ -9,9 +9,9 @@ A simple web-based age calculator that calculates your age in years, months, and
 - Fully responsive design.
 
 ## 🖥️ Demo:
-![Age Calculator - Main Screen](https://github.com/user-attachments/assets/c89285fe-bc7d-4185-96d4-b77bada13cbd)  
+![Age Calculator - Main Screen](https://github.com/user-attachments/assets/f8580c60-2d03-4a26-aaef-ee4f751d25f1) 
 
-![Age Calculator - Result](https://github.com/user-attachments/assets/1b20c3e2-fd90-44b9-9112-0dcfb3316d12)
+![Age Calculator - Result](https://github.com/user-attachments/assets/6f9b9985-3dd3-4fc4-8904-f150c8b66782)
 
 
 
